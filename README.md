@@ -1,0 +1,1 @@
+Designed to streamline the replacement of thumbnail images created for DungeonDraft, this program allows the user to select two filesystem folders designated "Source" and "Target". Thumbnails and their filenames from the two folders are displayed. The user can then rename Target files with names from the Source folder.
